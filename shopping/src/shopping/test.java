@@ -6,6 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 		String a = "test";
 		int b = 10;
+		int c = 20;
 	}
 
 }
