@@ -7,7 +7,7 @@ public class test {
 		String a = "test";
 		int b = 10;
 		String user = "hong";
-		System.out.println(a);
+		System.out.println("test");
 	}
 
 }
